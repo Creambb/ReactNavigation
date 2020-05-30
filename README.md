@@ -1,2 +1,15 @@
 # ReactNavigation
-一个React Navigation 5.x的demo
+
+### 操作指南
+
+#### 安装依赖
+
+```
+npm install
+```
+
+### 运行
+
+```
+yarn android
+```
