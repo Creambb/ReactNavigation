@@ -11,5 +11,5 @@ npm install
 ### 运行
 
 ```
-yarn android
+npm run android
 ```
